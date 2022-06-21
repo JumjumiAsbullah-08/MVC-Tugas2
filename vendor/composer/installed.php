@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'type' => 'project',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'reference' => 'ae86896f58440a9e27671764c10e163b89b0d51c',
+        'name' => 'suendri-uinsu/oop-praktikum-9',
+        'dev' => true,
+    ),
+    'versions' => array(
+        'filp/whoops' => array(
+            'pretty_version' => '2.14.5',
+            'version' => '2.14.5.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../filp/whoops',
+            'aliases' => array(),
+            'reference' => 'a63e5e8f26ebbebf8ed3c5c691637325512eb0dc',
+            'dev_requirement' => false,
+        ),
+        'psr/log' => array(
+            'pretty_version' => '3.0.0',
+            'version' => '3.0.0.0',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../psr/log',
+            'aliases' => array(),
+            'reference' => 'fe5ea303b0887d5caefd3d431c3e61ad47037001',
+            'dev_requirement' => false,
+        ),
+        'suendri-uinsu/oop-praktikum-9' => array(
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'type' => 'project',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'reference' => 'ae86896f58440a9e27671764c10e163b89b0d51c',
+            'dev_requirement' => false,
+        ),
+    ),
+);
