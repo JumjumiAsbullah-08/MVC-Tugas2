@@ -1,0 +1,17 @@
+{
+    "name": "jumjumi/praktikum-10",
+    "description": "Praktikum 10 Pemrograman Berbasis web lanjutan 2022",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jumjumi Asbullah",
+            "email": "jumjumiasbullah8@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "app/"
+        }
+    }
+}
